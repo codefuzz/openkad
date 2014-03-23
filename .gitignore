@@ -1,0 +1,20 @@
+# IntelliJ Idea IDE project metadata
+*.iml
+.idea
+
+# Java compiled classes
+*.class
+
+# Build artifacts
+*.jar
+target
+
+# virtual machine crash logs
+hs_err_pid*
+
+# OSX meta files
+.DS_Store
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
